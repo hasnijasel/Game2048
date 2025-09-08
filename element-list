@@ -1,0 +1,7 @@
+module:Igrica2048RS
+GuiView
+MainGui
+MainKonzola
+PaketKontroler
+PaketModel
+PaketView
